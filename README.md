@@ -11,6 +11,6 @@
     <artifactId>basic-core</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <scope>system</scope>
-    <systemPath>lib/fileName.jar</systemPath>
+    <systemPath>libs/fileName.jar</systemPath>
 </dependency>
 ```
