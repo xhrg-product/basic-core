@@ -2,10 +2,10 @@
 
 ## 使用
 
-第一步：下载：https://github.com/xhrg-product/basic-core/releases 放在项目新建目录libs目录下
-第二部：
+* 第一步：下载：https://github.com/xhrg-product/basic-core/releases 放在项目新建目录libs目录下
+* 第二部：
 
-
+```
 <dependency>
     <groupId>io.github.xhrg</groupId>
     <artifactId>basic-core</artifactId>
@@ -13,3 +13,4 @@
     <scope>system</scope>
     <systemPath>lib/fileName.jar</systemPath>
 </dependency>
+```
